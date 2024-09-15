@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://briumnia.github.io/sitemap.html.gz
+Sitemap: https://briumnia.github.io/app/sitemap.html.gz
+Sitemap: https://briumnia.github.io/assets/sitemap.html.gz
+Sitemap: https://briumnia.github.io/css/sitemap.html.gz
+Sitemap: https://briumnia.github.io/includes/sitemap.html.gz
+Sitemap: https://briumnia.github.io/item/sitemap.html.gz
+Sitemap: https://briumnia.github.io/src/sitemap.html.gz
